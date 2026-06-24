@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amor-sagrado/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Amor sagrado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amor-sagrado/) |
+| **Get License** | [Get a Licensing Quote for Amor sagrado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amor-sagrado/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit dcfa6fd7c57f8b357bf0fd57ddaa9bba2e485a2d
+> Tú tienes el veneno que la sangre me altera
+> Bailando en la sombra, rompiendo la carretera
+> Es un amor sagrado, nena, no hay un plan
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
