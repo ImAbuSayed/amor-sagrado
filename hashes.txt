@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amor sagrado
+
+This log tracks the cryptographic history and versioning for the song **Amor sagrado** (amor-sagrado).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T13:38:35.604731 | `v1` | `05bb671a0fc5e1f53e503e4950ee3a037660a20054d91f501f17ac57af68dd80` | `335f6ceb6a44a248d9d5b708c5c79faf31374f6a98c97ea1096f40089d139e6a` | `2026-06-24_amor-sagrado-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
